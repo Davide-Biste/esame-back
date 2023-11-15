@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f28ac3c3-0c78-44bf-9d1b-540c0d59b583" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/Progetti JAC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BackEnd/04marzo/ese-sequelize/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BackEnd/04marzo/ese-sequelize/.idea/ese-sequelize.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BackEnd/04marzo/ese-sequelize/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BackEnd/04marzo/ese-sequelize/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BackEnd/04marzo/sequelize/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BackEnd/04marzo/sequelize/.idea/sequelize.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BackEnd/04marzo/sequelize/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BackEnd/04marzo/sequelize/src/api/city/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BackEnd/04marzo/sequelize/src/api/city/model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BackEnd/04marzo/sequelize/src/api/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BackEnd/04marzo/sequelize/src/api/squad/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BackEnd/04marzo/sequelize/src/api/squad/model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BackEnd/04marzo/sequelize/src/services/db/db.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BackEnd/05aprile/dockerHello/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BackEnd/05aprile/dockerHello/.idea/dockerHello.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BackEnd/05aprile/dockerHello/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BackEnd/05aprile/dockerHello/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BackEnd/05aprile/dockerHello/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BackEnd/05aprile/dockerHello/Dockerfile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BackEnd/05aprile/dockerHello/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BackEnd/2anno/02gennaio/advancedJavaScript/lezione3/slime.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BackEnd/2anno/03febbraio/oop-ereditarietà/archiviazioneFile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FrontEnd/Primo Anno/02gennaio/.idea/02gennaio.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FrontEnd/Primo Anno/02gennaio/00esercitazioni/.idea/00esercitazioni.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FrontEnd/Primo Anno/03febbraio/02eseproducts/.idea/02eseproducts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FrontEnd/Primo Anno/03febbraio/03myapp/.idea/03myapp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FrontEnd/Primo Anno/03febbraio/axios/.idea/axios.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FrontEnd/Primo Anno/04marzo/.idea/04marzo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FrontEnd/Primo Anno/04marzo/react-native/.idea/04marzo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FrontEnd/Primo Anno/06maggio/.idea/06maggio.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FrontEnd/Primo Anno/Mobile/firstExpo/.idea/firstExpo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FrontEnd/Secondo Anno/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FrontEnd/Secondo Anno/.idea/Secondo Anno.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FrontEnd/Secondo Anno/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FrontEnd/Secondo Anno/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FrontEnd/Secondo Anno/VUE/html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FrontEnd/Secondo Anno/VUE/quasar01/src/components/LoginForm.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FrontEnd/Secondo Anno/VUE/quasar01/src/pages/ChatsPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FrontEnd/Secondo Anno/VUE/quasar01/src/store/chats/actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FrontEnd/Secondo Anno/VUE/quasar01/src/store/chats/getters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FrontEnd/Secondo Anno/VUE/quasar01/src/store/chats/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FrontEnd/Secondo Anno/VUE/quasar01/src/store/chats/mutations.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FrontEnd/Secondo Anno/VUE/quasar01/src/store/chats/state.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FrontEnd/Secondo Anno/VUE/quasar01/src/store/user/actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FrontEnd/Secondo Anno/VUE/quasar01/src/store/user/getters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FrontEnd/Secondo Anno/VUE/quasar01/src/store/user/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FrontEnd/Secondo Anno/VUE/quasar01/src/store/user/mutations.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FrontEnd/Secondo Anno/VUE/quasar01/src/store/user/state.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FrontEnd/Secondo Anno/VUE/spa-vue/src/components/AllInclusiveModal.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FrontEnd/Secondo Anno/VUE/spa-vue/src/components/CountButton.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FrontEnd/Secondo Anno/VUE/spa-vue/src/components/Film.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FrontEnd/Secondo Anno/VUE/spa-vue/src/components/HorizontalCard.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FrontEnd/Secondo Anno/VUE/spa-vue/src/components/TableBootstrap.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FrontEnd/Secondo Anno/VUE/spa-vue/src/views/ComponentsView.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FrontEnd/Secondo Anno/VUE/spa-vue/src/views/ContactView.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FrontEnd/Secondo Anno/VUE/spa-vue/src/views/ContactViewDetails.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FrontEnd/Secondo Anno/VUE/spa-vue/src/views/ContactViewExternal.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FrontEnd/Secondo Anno/VUE/spa-vue/src/views/ContactViewInternal.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd/!Mobile/firstExpo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd/02gennaio/.idea/02gennaio.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd/02gennaio/00esercitazioni/.idea/00esercitazioni.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd/03febbraio/02eseproducts/.idea/02eseproducts.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd/03febbraio/03myapp/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd/03febbraio/03myapp/.idea/03myapp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd/03febbraio/03myapp/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd/03febbraio/03myapp/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd/03febbraio/03myapp/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd/03febbraio/03myapp/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd/03febbraio/03myapp/src/Cart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd/03febbraio/03myapp/src/Product.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd/03febbraio/03myapp/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd/03febbraio/03myapp/src/json/products.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd/03febbraio/03myapp/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd/03febbraio/axios/.idea/axios.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd/03febbraio/axios/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd/03febbraio/axios/src/UserCard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd/03febbraio/axios/src/assets/external-user.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd/03febbraio/axios/src/assets/internal-user.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd/03febbraio/axios/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd/03febbraio/axios/src/services/axios.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd/03febbraio/axios/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd/04marzo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd/04marzo/.idea/04marzo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd/04marzo/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd/04marzo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd/04marzo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd/04marzo/react-native/.idea/04marzo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd/04marzo/react-native/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd/04marzo/react-native/src/Components/CoinList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd/04marzo/react-native/src/Components/CoinRow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd/04marzo/react-native/src/api/axios.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd/04marzo/react-native/src/api/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd/04marzo/react-native/src/css/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd/Mobile/firstExpo/.env" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd/Mobile/firstExpo/src/api/axios.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd/Mobile/firstExpo/src/component/CoinRow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd/Mobile/firstExpo/src/component/Home.js" beforeDir="false" />
+    </list>
+    <list id="057232be-b4cf-4104-9e85-fec25bf28d9e" name="Changes by eupne" comment="">
+      <change beforePath="$PROJECT_DIR$/src/api/entity/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/entity/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1700059499" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/src/services/db/index.js">
+      <ranges>
+        <range start1="72" end1="72" start2="72" end2="73" changelist="f28ac3c3-0c78-44bf-9d1b-540c0d59b583" />
+        <range start1="77" end1="78" start2="78" end2="79" changelist="057232be-b4cf-4104-9e85-fec25bf28d9e" />
+      </ranges>
+    </file>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2YDTf2ZQ3BYhfFnjIBUkYU7qCdN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "javascript.nodejs.core.library.configured.version": "14.21.2",
+    "javascript.nodejs.core.library.typings.version": "14.18.63",
+    "last_opened_file_path": "/Users/davide/Desktop/Progetti JAC/SimulazioneEsame/simulazione-esame-dacasa/src/services/db",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/services/db" />
+      <recent name="$PROJECT_DIR$/src/api" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f28ac3c3-0c78-44bf-9d1b-540c0d59b583" name="Changes" comment="" />
+      <created>1700059249713</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700059249713</updated>
+      <workItem from="1700059250812" duration="5254000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
