@@ -53,13 +53,13 @@ export function createEntity (body) {
 // endregion
 
 export function reserve (userId, entityId, products = []) {
-    const existingReservation = _.find(db.reservations, reservation => {
-        _.isEqual(reservation.userId, userId) && _.isEqual(reservation.entityId, entityId)
-    });
-
-    if (!_.isNil(existingReservation)) {
-        throw new Error("You already have a reservation for this entity")
-    }
+    // const existingReservation = _.find(db.reservations, reservation => {
+    //     _.isEqual(reservation.userId, userId) && _.isEqual(reservation.entityId, entityId)
+    // });
+    //
+    // if (!_.isNil(existingReservation)) {
+    //     throw new Error("You already have a reservation for this entity")
+    // }
 
     const reservation = {
         entityId: entityId,
