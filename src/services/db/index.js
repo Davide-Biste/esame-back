@@ -67,7 +67,7 @@ export function reserve (userId, entityId, products = []) {
         id: v4(),
         date: new Date(),
         products: products,
-        total: _.reduce(products, (acc, product) => acc + (product.price * product.quantity || 1), 0)
+        total: _.reduce(products, (acc, product) => acc + (product.price * (product.quantity || 1)), 0)
     }
 
     db.reservations.push(reservation);
